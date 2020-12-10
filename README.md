@@ -1,0 +1,2 @@
+# Python-prac
+daily exercise
