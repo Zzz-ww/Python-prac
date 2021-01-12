@@ -5,7 +5,7 @@
 例如：$1^3 + 5^3+ 3^3=153$。
 """
 
-for num in range (100, 1000):
+for num in range(100, 1000):
     low = num % 10
     mid = num // 10 % 10
     high = num // 100
