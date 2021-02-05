@@ -16,10 +16,6 @@ def select_sort(items):
     return items
 
 
-def main():
+if __name__ == '__main__':
     items = [64, 25, 12, 22, 11]
     print(select_sort(items))
-
-
-if __name__ == '__main__':
-    main()
